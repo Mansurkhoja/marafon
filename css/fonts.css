@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'GolosText';
+    font-weight: 400;
+    font-style: normal;
+    font-display: fallback;
+    src: local("GolosText"), url(../fonts/Golos-Text-VF-Regular.woff2) format("woff2"), url(../fonts/Golos-Text-VF-Regular.woff) format("woff"), url(../fonts/Golos-Text-VF-Regular.ttf) format("truetype"), url(../fonts/Golos-Text-VF-Regular.eot), url(../fonts/Golos-Text-VF-Regular.eot?#iefix) format("embedded-opentype")
+}
