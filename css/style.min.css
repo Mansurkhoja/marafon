@@ -19,3 +19,4 @@ font-size: 28px;
         @media screen and (min-width: 1200px){.faq__question .icon{
                 min-width: 30px;
               }}
+              .team__slider-text+.intro-price{justify-content: center;}
